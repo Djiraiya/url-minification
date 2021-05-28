@@ -1,7 +1,7 @@
 # url-minification
 
 ## Запуск
-Неободим apache maven и Java 8
+Необходим apache maven и Java 8
 
 Чтобы запустить приложение:
 1. Собрать проект `mvn package`
